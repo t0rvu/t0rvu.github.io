@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://t0rvu.github.io/sitemap.xml
